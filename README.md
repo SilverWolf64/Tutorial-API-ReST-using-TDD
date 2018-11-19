@@ -6,7 +6,7 @@ In this tutorial, we are going to learn how to develop and test an API made with
 
 First of all, we are going to start a new Symfony project. In this tutorial, I will start with a simple Symfony "*skeleton*" but you can also use the more complete "*website-skeleton*". Open your terminal and run the following commands:
 
-```bash
+```bash {.line-numbers}
 $ composer create-project symfony/skeleton your-project-name
 
 $ cd your-project-name
